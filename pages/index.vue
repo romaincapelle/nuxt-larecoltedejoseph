@@ -43,7 +43,7 @@
             Producteur de pommes de terre<br />
             contact@larecoltedejoseph.com<br />
             Tel : 06 37 61 17 18<br />
-            181, Bis rue d’Ytres 62124 LECHELLE
+            1, bis rue d’Ytres 62124 LECHELLE
           </p>
         </div>
       </div>
